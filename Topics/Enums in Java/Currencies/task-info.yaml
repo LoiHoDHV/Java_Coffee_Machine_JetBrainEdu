@@ -1,0 +1,21 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: // declare your enum here
+  learner_created: false
+- name: src/Zodiac.class
+  visible: true
+  learner_created: true
+- name: src/Main.class
+  visible: true
+  learner_created: true
+- name: src/Currency.class
+  visible: true
+  learner_created: true
+feedback_link: https://hyperskill.org/learn/step/11519#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Tue, 22 Mar 2022 10:11:23 UTC
+record: -1
